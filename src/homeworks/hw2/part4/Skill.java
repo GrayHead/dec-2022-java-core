@@ -5,7 +5,7 @@ import lombok.*;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-class Skill {
+public class Skill {
     private String title;
     private int exp;
 }
