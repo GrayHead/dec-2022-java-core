@@ -1,7 +1,7 @@
-package lessons.lesson4_collection1.linkedlist;
+package lessons.lesson4_collection_1_list_set.linkedlist;
 
 
-import lessons.lesson4_collection1.arraylist.User;
+import lessons.lesson4_collection_1_list_set.arraylist.User;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

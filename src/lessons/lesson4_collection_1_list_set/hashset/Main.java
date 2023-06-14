@@ -1,7 +1,6 @@
-package lessons.lesson4_collection1.hashset;
+package lessons.lesson4_collection_1_list_set.hashset;
 
-import com.sun.source.tree.Tree;
-import lessons.lesson4_collection1.arraylist.User;
+import lessons.lesson4_collection_1_list_set.arraylist.User;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

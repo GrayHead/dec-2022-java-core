@@ -1,4 +1,4 @@
-package lessons.lesson4_collection1.arraylist;
+package lessons.lesson4_collection_1_list_set.arraylist;
 
 public class User implements Comparable<User> {
     private int id;
